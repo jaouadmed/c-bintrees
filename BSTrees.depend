@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1527098164 source:/mnt/Disque local/ii__bdcc/s2/Structures/code/BSTrees/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.c"
+
+1527081824 /mnt/Disque local/ii__bdcc/s2/Structures/code/BSTrees/tree.h
+
+1527096361 /mnt/Disque local/ii__bdcc/s2/Structures/code/BSTrees/tree.c
+	<math.h>
+	<stdlib.h>
+	"tree.h"
+
